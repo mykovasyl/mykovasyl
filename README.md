@@ -2,15 +2,15 @@
  I'm Nick Vasyl'yev</h1>
 <h3 align="center">A passionate full-stack developer!</h3>
 
-- 🔭 I’m currently working on Watch What - a social app to discover movies and TV shows with friends
+- 🔭 I’m currently working on a mathematics guide to starting high school
 
-- 🌱 I’m currently learning **AWS Cloud, Python**
+- 🌱 I’m currently learning **Japanese and LaTeX**
 
 - 🏗️ My flagship projects are [Tutor Plus](https://github.com/mykovasyl/tutor-plus-rails-7) and [booka](https://github.com/mykovasyl/booka)
 
 - 🔜 My next project is finding an entry level job!
 
-- 💬 Ask me about **my 7 pets! 🐶🐶🐶🐱🐱🐹🦜**
+- 💬 Ask me about **my 6 pets! 🐶🐶🐶🐱🐱🦜**
 
 - 📫 How to reach me **mykovasyl@gmail.com**
 
